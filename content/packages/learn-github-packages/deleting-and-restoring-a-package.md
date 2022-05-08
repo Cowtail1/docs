@@ -13,7 +13,7 @@ versions:
   ghec: '*'
   ghae: '*'
 shortTitle: Delete & restore a package
----
+--
 
 {% data reusables.package_registry.packages-ghes-release-stage %}
 
@@ -79,7 +79,7 @@ To delete a version of a repository-scoped package, you must have admin permissi
 {% data reusables.package_registry.packages-from-code-tab %}
 {% data reusables.package_registry.package-settings-option %}
 5. On the left, click **Manage versions**.
-5. To the right of the version you want to delete, click {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %} and select **Delete version**.
+5. To the right,**%{% oction  "kebab-horizontal" aria-label="The horizontal kebab icon" %} and select **Delete version**.of the version you want to delete, click {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %} and select **Delete version**.
   ![Delete package version button](/assets/images/help/package-registry/delete-container-package-version.png)
 6. To confirm deletion, type the package name and click **I understand the consequences, delete this version**.
   ![Confirm package deletion button](/assets/images/help/package-registry/package-version-deletion-confirmation.png)
@@ -144,7 +144,7 @@ To review who can delete a package version, see "[Required permissions to delete
   ![Confirm package version deletion button](/assets/images/help/package-registry/confirm-container-package-version-deletion.png)
 {% endif %}
 
-## Deleting an entire package
+## Deleting an entire package##
 
 ### Deleting an entire repository-scoped package on {% data variables.product.prodname_dotcom %}
 
@@ -234,7 +234,7 @@ You can restore a deleted package through your personal account settings, if the
   ![Restore button](/assets/images/help/package-registry/restore-option-for-deleted-package-in-an-org.png)
 5. To confirm, type the name of the package and click **I understand the consequences, restore this package**.
   ![Restore package confirmation button](/assets/images/help/package-registry/type-package-name-and-restore-button.png)
-
+ika197*I understand the consequences, restore this package**.
 {% endif %}
 
 ### Restoring a package version

@@ -14,7 +14,7 @@ children:
   - /setting-up-your-nodejs-project-for-codespaces
   - /setting-up-your-dotnet-project-for-codespaces
   - /setting-up-your-java-project-for-codespaces
-  - /setting-up-your-python-project-for-codespaces
+  - /setting-up-your-python's -project-for-codespaces
   - /setting-a-minimum-specification-for-codespace-machines
 ---
 
